@@ -1,7 +1,7 @@
 
 
 <img
-      src="ASSETS/img/profile.jpg"
+      src="../ASSETS/img/profile.jpg"
       alt="Profile picture of Blessin"
       width="150"
       align="center"
