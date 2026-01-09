@@ -29,10 +29,11 @@ The project is designed to be:
         ├── experience.html
         ├── awards.html
         └── coverletter.html
-<nav>
-      <a href="ASSETS/public_html/contact.html">Contact</a>
-      <a href="ASSETS/public_html/education.html">Education</a>
-      <a href="ASSETS/public_html/experience.html">Experience</a>
-      <a href="ASSETS/public_html/awards.html">Awards</a>
-      <a href="ASSETS/public_html/coverletter.html">Cover Letter</a>
-    </nav>
+## 📄 View CV Pages
+
+- [Home / CV Overview](index.html)
+- [Contact](ASSETS/public_html/contact.html)
+- [Education](ASSETS/public_html/education.html)
+- [Experience](ASSETS/public_html/experience.html)
+- [Awards](ASSETS/public_html/awards.html)
+- [Cover Letter](ASSETS/public_html/coverletter.html)
