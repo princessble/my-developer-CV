@@ -30,11 +30,13 @@ The project is designed to be:
         ├── awards.html
         └── coverletter.html
 ## 📄 View CV Pages
-<nav>
-      <a href="ASSETS/public_html/contact.html">Contact</a>
-      <a href="ASSETS/public_html/education.html">Education</a>
-      <a href="ASSETS/public_html/experience.html">Experience</a>
-      <a href="ASSETS/public_html/awards.html">Awards</a>
-      <a href="ASSETS/public_html/coverletter.html">Cover Letter</a>
-    </nav>
+## 🌐 Live CV
+
+- [Home / CV Overview](https://princessble.github.io/my-developer-CV/)
+- [Contact](https://princessble.github.io/my-developer-CV/ASSETS/public_html/contact.html)
+- [Education](https://princessble.github.io/my-developer-CV/ASSETS/public_html/education.html)
+- [Experience](https://princessble.github.io/my-developer-CV/ASSETS/public_html/experience.html)
+- [Awards](https://princessble.github.io/my-developer-CV/ASSETS/public_html/awards.html)
+- [Cover Letter](https://princessble.github.io/my-developer-CV/ASSETS/public_html/coverletter.html)
+
 
