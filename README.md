@@ -1,4 +1,4 @@
-!
+
 
 
 # Personal Resume Website
@@ -29,3 +29,10 @@ The project is designed to be:
         ├── experience.html
         ├── awards.html
         └── coverletter.html
+<nav>
+      <a href="ASSETS/public_html/contact.html">Contact</a>
+      <a href="ASSETS/public_html/education.html">Education</a>
+      <a href="ASSETS/public_html/experience.html">Experience</a>
+      <a href="ASSETS/public_html/awards.html">Awards</a>
+      <a href="ASSETS/public_html/coverletter.html">Cover Letter</a>
+    </nav>
