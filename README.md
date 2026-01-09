@@ -42,6 +42,6 @@ The project is designed to be:
 - [Education] (https://princessble.github.io/my-developer-CV/ASSETS/public_html/education.html)
 - [Experience] (https://princessble.github.io/my-developer-CV/ASSETS/public_html/experience.html)
 - [Awards] (https://princessble.github.io/my-developer-CV/ASSETS/public_html/awards.html)
-- [Cover Letter] (https://princessble.github.io/my-developer-CV/ASSETS/public_html/coverletter.html)
+- [Cover Letter] (https://princessble.github.io/my-developer-CV/my-online-resume/ONLINE RESUME/ASSETS/public_html/coverletter.html)
 
 
