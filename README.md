@@ -1,11 +1,9 @@
 
 
-<img
-      src="../ASSETS/img/profile.jpg"
-      alt="Profile picture of Blessin"
-      width="150"
-      align="center"
-    />
+<p align="center">
+  <img src="ASSETS/img/profile.jpg" width="150" alt="Profile picture of Blessing">
+</p>
+
 # Personal Resume Website
 
 <p>This project is a **static personal resume website** built with **HTML5**. </p> 
