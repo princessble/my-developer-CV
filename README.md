@@ -1,6 +1,11 @@
 
 
-
+<img
+      src="ASSETS/img/profile.jpg"
+      alt="Profile picture of Blessin"
+      width="150"
+      align="center"
+    />
 # Personal Resume Website
 
 <p>This project is a **static personal resume website** built with **HTML5**. </p> 
@@ -29,14 +34,14 @@ The project is designed to be:
         ├── experience.html
         ├── awards.html
         └── coverletter.html
-## 📄 View CV Pages
+
 ## 🌐 Live CV
 
-- [Home / CV Overview](https://princessble.github.io/my-developer-CV/)
-- [Contact](https://princessble.github.io/my-developer-CV/ASSETS/public_html/contact.html)
-- [Education](https://princessble.github.io/my-developer-CV/ASSETS/public_html/education.html)
-- [Experience](https://princessble.github.io/my-developer-CV/ASSETS/public_html/experience.html)
-- [Awards](https://princessble.github.io/my-developer-CV/ASSETS/public_html/awards.html)
-- [Cover Letter](https://princessble.github.io/my-developer-CV/ASSETS/public_html/coverletter.html)
+- [Home / CV Overview] (https://princessble.github.io/my-developer-CV/)
+- [Contact] (https://princessble.github.io/my-developer-CV/ASSETS/public_html/contact.html)
+- [Education] (https://princessble.github.io/my-developer-CV/ASSETS/public_html/education.html)
+- [Experience] (https://princessble.github.io/my-developer-CV/ASSETS/public_html/experience.html)
+- [Awards] (https://princessble.github.io/my-developer-CV/ASSETS/public_html/awards.html)
+- [Cover Letter] (https://princessble.github.io/my-developer-CV/ASSETS/public_html/coverletter.html)
 
 
